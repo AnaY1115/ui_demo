@@ -8,12 +8,9 @@ showcasing its ability to traverse mobile application interfaces and capture ad-
 ## Demo Video
 
 
-The following video shows the automated UI exploration process in action:
+▶️ **[Click to watch the demo video](./ui_demo.mp4)**
 
-
-<video width="640" controls>
-<source src="./ui_demo.mp4" type="video/mp4">
-</video>
+This video demonstrates the automated UI exploration process.
 
 
 ## Description
